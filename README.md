@@ -71,19 +71,7 @@ Real-time interactive platform with synchronized media and live communication fe
 </tr>
 </table>
 
-## 🎯 Current Focus
-
-- 🔨 Building scalable real-time applications
-- 🌐 Exploring WebRTC and peer-to-peer architectures
-- ⚡ Optimizing backend performance and API design
-- 🚀 Contributing to open-source projects
-
-## 💡 Fun Facts
-
-- 🎮 Love experimenting with interactive web experiences
-- 🔧 Enjoy solving complex system design challenges
-- 📚 Always learning new technologies and frameworks
-- ☕ Powered by coffee and clean code
+## ☕ Powered by coffee and music
 
 ## 📫 Connect With Me
 

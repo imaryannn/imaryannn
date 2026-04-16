@@ -1,50 +1,40 @@
-# GitHub Dashboard
+# Portfolio Dashboard
 
-A dashboard for visualizing and managing GitHub repositories, issues, pull requests, and activity metrics.
+> A personal portfolio showcasing my projects, skills, and GitHub activity
 
-## Features
+## About
 
-- **Repository Overview** - View all repositories with key metrics
-- **Issue Tracking** - Monitor open/closed issues across projects
-- **Pull Request Management** - Track PR status and reviews
-- **Activity Feed** - Real-time updates on repository activity
-- **Analytics** - Visualize contribution trends and statistics
+This is my developer portfolio featuring:
 
-## Installation
+- 🚀 Featured projects with live demos
+- 💻 GitHub stats and contribution activity
+- 🛠️ Technical skills and technologies
+- 📊 Project analytics and metrics
+- 📝 Blog posts and articles
 
-```bash
-git clone https://github.com/yourusername/github-dashboard.git
-cd github-dashboard
-npm install
-```
+## Live Demo
 
-## Configuration
-
-Create a `.env` file:
-
-```
-GITHUB_TOKEN=your_personal_access_token
-GITHUB_USERNAME=your_username
-```
-
-## Usage
-
-```bash
-npm start
-```
-
-Navigate to `http://localhost:3000`
-
-## API Integration
-
-Uses GitHub REST API v3 and GraphQL API for data fetching.
+[View Portfolio](https://yourusername.github.io)
 
 ## Tech Stack
 
-- Frontend: React/Vue/Angular
-- Backend: Node.js/Python
-- API: GitHub REST/GraphQL
-- Styling: CSS/Tailwind
+- HTML/CSS/JavaScript
+- GitHub API
+- Responsive Design
+
+## Setup
+
+```bash
+git clone https://github.com/yourusername/portfolio.git
+cd portfolio
+# Open index.html in browser
+```
+
+## Contact
+
+- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: your.email@example.com
+- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
 
 ## License
 

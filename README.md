@@ -71,9 +71,9 @@ Real-time interactive platform with synchronized media and live communication fe
 </tr>
 </table>
 
-<p align="center">
+<h3 align="center">
   <em>☕ Powered by coffee and music 🎵</em>
-</p>
+</h3>
 
 ## 📫 Connect With Me
 

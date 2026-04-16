@@ -72,7 +72,7 @@ Real-time interactive platform with synchronized media and live communication fe
 </table>
 
 <h3 align="center">
-  <em>☕ Powered by coffee and music 🎵</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%E2%98%95+Powered+by+coffee+and+music+%F0%9F%8E%B5" alt="Coffee and Music" />
 </h3>
 
 ## 📫 Connect With Me

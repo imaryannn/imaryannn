@@ -20,44 +20,67 @@ Architecting robust, high-performance systems and immersive interactive experien
 
 ## 🌟 Highlighted Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 📹 [ZyroMeet](https://zyromeet.onrender.com/)
-Browser-based video calling app using WebRTC for peer-to-peer media streams and WebSockets for signaling. Handles real-time connection negotiation and low-latency A/V transport.
+Browser-based video calling app using WebRTC for peer-to-peer media streams and WebSockets for signaling.
 
 ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat&logo=webrtc&logoColor=white) ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat&logo=socket.io&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
+</td>
+<td width="50%">
+
 ### 💬 [NodeChat](https://nodechat-aivw.onrender.com/)
-Real-time chat app built on Node.js and Socket.io. Handles bidirectional WebSocket connections, room-based messaging, and live user presence — all running on a persistent Express server.
+Real-time chat app built on Node.js and Socket.io with room-based messaging and live user presence.
 
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
 
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 📄 [WPDF Toolkit](https://imaryannn.github.io/wpdf/)
-Client-side document processor leveraging Web Workers to compress, encrypt, and manipulate standard PDF file binaries securely.
+Client-side document processor leveraging Web Workers to compress, encrypt, and manipulate PDF files securely.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Web Workers](https://img.shields.io/badge/-Web%20Workers-4285F4?style=flat&logo=google-chrome&logoColor=white) ![PDF.js](https://img.shields.io/badge/-PDF.js-FF0000?style=flat&logo=adobe&logoColor=white)
+
+</td>
+<td width="50%">
 
 ### 📧 [Prioramail](https://prioramail.vercel.app/)
 Minimal email platform with secure authentication and full email management capabilities.
 
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![OAuth](https://img.shields.io/badge/-OAuth-EB5424?style=flat&logo=auth0&logoColor=white) ![Gmail API](https://img.shields.io/badge/-Gmail%20API-EA4335?style=flat&logo=gmail&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![OAuth](https://img.shields.io/badge/-OAuth-EB5424?style=flat&logo=auth0&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🎥 [Syncyt](https://syncyt.onrender.com/)
 Real-time interactive platform with synchronized media and live communication features.
 
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![YouTube API](https://img.shields.io/badge/-YouTube%20API-FF0000?style=flat&logo=youtube&logoColor=white)
 
+</td>
+<td width="50%">
+</td>
+</tr>
+</table>
+
 ## 📊 My Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imaryannn&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=imaryannn&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=imaryannn&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imaryannn&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaryannn&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaryannn&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" />
+</div>
 
 ## 📫 Connect With Me
 

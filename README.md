@@ -71,16 +71,19 @@ Real-time interactive platform with synchronized media and live communication fe
 </tr>
 </table>
 
-## 📊 My Stats
+## 🎯 Current Focus
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=imaryannn&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=imaryannn&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
-</div>
+- 🔨 Building scalable real-time applications
+- 🌐 Exploring WebRTC and peer-to-peer architectures
+- ⚡ Optimizing backend performance and API design
+- 🚀 Contributing to open-source projects
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaryannn&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" />
-</div>
+## 💡 Fun Facts
+
+- 🎮 Love experimenting with interactive web experiences
+- 🔧 Enjoy solving complex system design challenges
+- 📚 Always learning new technologies and frameworks
+- ☕ Powered by coffee and clean code
 
 ## 📫 Connect With Me
 

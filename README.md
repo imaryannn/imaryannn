@@ -25,29 +25,39 @@ Architecting robust, high-performance systems and immersive interactive experien
 <td width="50%">
 
 ### 📹 [ZyroMeet](https://zyromeet.onrender.com/)
-Browser-based video calling app using WebRTC for peer-to-peer media streams and WebSockets for signaling.
+Browser-based video calling app using WebRTC for peer-to-peer media streams and WebSockets for signaling. Handles real-time connection negotiation and low-latency A/V transport.
 
 ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat&logo=webrtc&logoColor=white) ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat&logo=socket.io&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 </td>
 <td width="50%">
 
-### 💬 [NodeChat](https://nodechat-aivw.onrender.com/)
-Real-time chat app built on Node.js and Socket.io with room-based messaging and live user presence.
+### ☁️ [TelStorage](https://telstorage.vercel.app/)
+Free, unlimited cloud storage platform built on Telegram's infrastructure. Google Drive-style interface to upload, organize, search, and access files from any device.
 
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Telegram](https://img.shields.io/badge/-Telegram%20API-26A5E4?style=flat&logo=telegram&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
+### 💬 [NodeChat](https://nodechat-aivw.onrender.com/)
+Real-time chat app built on Node.js and Socket.io. Handles bidirectional WebSocket connections, room-based messaging, and live user presence.
+
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
+
+</td>
+<td width="50%">
+
 ### 📄 [WPDF Toolkit](https://imaryannn.github.io/wpdf/)
-Client-side document processor leveraging Web Workers to compress, encrypt, and manipulate PDF files securely.
+Client-side document processor leveraging Web Workers to compress, encrypt, and manipulate PDF file binaries securely.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Web Workers](https://img.shields.io/badge/-Web%20Workers-4285F4?style=flat&logo=google-chrome&logoColor=white) ![PDF.js](https://img.shields.io/badge/-PDF.js-FF0000?style=flat&logo=adobe&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 📧 [Prioramail](https://prioramail.vercel.app/)
@@ -56,8 +66,6 @@ Minimal email platform with secure authentication and full email management capa
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![OAuth](https://img.shields.io/badge/-OAuth-EB5424?style=flat&logo=auth0&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🎥 [Syncyt](https://syncyt.onrender.com/)
@@ -65,8 +73,6 @@ Real-time interactive platform with synchronized media and live communication fe
 
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![YouTube API](https://img.shields.io/badge/-YouTube%20API-FF0000?style=flat&logo=youtube&logoColor=white)
 
-</td>
-<td width="50%">
 </td>
 </tr>
 </table>

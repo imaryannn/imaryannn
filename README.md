@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./assets/icons/wave.svg" width="28" alt="Wave" /> Hi, I'm Aryan</h1>
+<h1 align="center"> Hi, I'm Aryan</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;WebRTC+%26+Real-Time+Systems;Building+Production-Grade+Apps" alt="Typing SVG" />

@@ -10,14 +10,6 @@
 
 Architecting robust, high-performance systems and immersive interactive experiences at the frontier of the web. I write real code — Node.js backends, REST APIs, WebSocket servers, MongoDB pipelines, and front-end UIs that are fast and functional.
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imaryannn&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imaryannn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaryannn&theme=tokyonight&layout=compact&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-
 ## Technologies
 
 | Category | Tools of Choice |
